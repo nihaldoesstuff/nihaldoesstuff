@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nihaldoesstuff
 - 👀 I’m interested in ... Java, I guess?
 - 🌱 I’m currently learning ... Java
-- 💞️ I’m looking to collaborate on ... A Minecraft PvP client project.
 - 📫 How to reach me ... Mail me at nihaljaiswal416@gmail.com or DM me through Discord Nihal#5899
 
 <!---
